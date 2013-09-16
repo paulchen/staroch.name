@@ -15,5 +15,5 @@ if(!file_exists("$templates_dir/index_$lang.php")) {
 	die();
 }
 
-require_once("$templates_dir/index_$lang.php");
+require_once("$templates_dir/index.php");
 
