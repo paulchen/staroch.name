@@ -26,4 +26,7 @@ a:hover {
 a:visited {
 	color: #417394;
 }
+div.degree {
+	font-style: italic;
+}
 
