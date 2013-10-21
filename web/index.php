@@ -9,9 +9,24 @@ else {
 	$lang = $_REQUEST['lang'];
 }
 
+$templates_dir = dirname(__FILE__) . '/../templates';
+
+$dir = opendir("$templates_dir");
+$languages = array();
+while(($file = readdir($dir)) !== false) {
+	if(preg_match('/^index_([a-z]+)\.php$/', $file, $matches)) {
+		$languages[] = $matches[1];
+	}
+}
+closedir($dir);
+
+$language_links = array();
+foreach($languages as $language) {
+	$language_links[$language] = preg_replace("+/$lang/+", "/$language/", $_SERVER['REQUEST_URI'], 1);
+}
+
 switch($_REQUEST['request']) {
 	case '':
-		$templates_dir = dirname(__FILE__) . '/../templates';
 		if(!file_exists("$templates_dir/index_$lang.php")) {
 			header("Location: /$default_lang/");
 			die();

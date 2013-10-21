@@ -15,10 +15,20 @@ div.main_pane {
 	background-color: white;
 	border: 1px solid #666;
 	padding: 10px;
+	position: relative;
+}
+div.language {
+	position: absolute;
+	top: 20px;
+	width: 790px;
+	text-align: right;
 }
 a {
 	text-decoration: none;
 	color: #417394;
+}
+img {
+	border: none;
 }
 a:hover {
 	color: red;
