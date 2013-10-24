@@ -4,20 +4,20 @@
 <div class="introduction">
 	<p>
 	Alumnus from <a href="http://www.tuwien.ac.at/en/tuwien_home/">Vienna University of Technology</a>. Finished studies:
+	</p>
 	<ul>
 		<li><a href="http://www.informatik.tuwien.ac.at/lehre/studien/bachelor/software-and-information-engineering">Software &amp; Information Engineering</a> (BSc),</li>
 		<li><a href="http://www.informatik.tuwien.ac.at/lehre/studien/master/software-engineering-and-internet-computing">Software Engineering &amp; Internet Computing</a> (Dipl.-Ing., equivalent to MSc).</li>
 	</ul>
-	</p>
 
 	<p>
 	Currently seeking for a job. Previous work experience:
+	</p>
 	<ul>
 		<li><a href="http://www.mediaxp.de/en/">MediaXP GmbH</a> (IT staff),</li>
 		<li><a href="http://www.tuwien.ac.at/en/tuwien_home">Vienna University of Technology</a> (Tutor),</li>
 		<li><a href="http://www.fortuna-swa.at/home/haeuser/appartementhaus">Appartementhaus Fortuna</a> (Civilian service).</li>
 	</ul>
-	</p>
 
 	<p>
 	Member of the organizational team of <a href="http://huntu.at/">hunTU</a>, the &quot;scavenger hunt that is a bit different&quot;.
@@ -37,10 +37,16 @@
 
 	<p>
 	The master thesis (&quot;A Weather Ontology for Predictive Control in Smart Homes&quot;) is available for download:
+	</p>
 	<ul>
 		<li><a href="/thesis/thesis.pdf">Master thesis</a></li>
 		<li><a href="/thesis/poster.pdf">Poster</a></li>
 		<li><a href="/thesis/presentation.pdf">Presentation slides</a></li>
 	</ul>
+
+	<hr />
+
+	<p>
+	This page is written using <a href="http://validator.w3.org/check?uri=https%3A%2F%2Fstaroch.rueckgr.at%2Fen%2F">valid HTML5</a> code.
 	</p>
 </div>
