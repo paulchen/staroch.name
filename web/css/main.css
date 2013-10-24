@@ -39,4 +39,9 @@ a:visited {
 div.degree {
 	font-style: italic;
 }
-
+div.introduction {
+	margin-top: 2em;
+}
+div.introduction > p {
+	margin-bottom: 1.2em;
+}
