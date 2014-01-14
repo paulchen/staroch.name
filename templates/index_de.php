@@ -33,6 +33,15 @@
 	Kontakt: <a href="mailto:paul@staroch.name">paul@staroch.name</a>, <a href="mailto:paulchen@rueckgr.at">paulchen@rueckgr.at</a>
 	</p>
 
+	<p>
+	Social Media:
+	<ul>
+		<li><a href="https://www.facebook.com/paul.staroch">Facebook</a></li>
+		<li><a href="http://at.linkedin.com/in/paulstaroch/">LinkedIn</a></li>
+		<li><a href="https://www.xing.com/profiles/Paul_Staroch">XING</a></li>
+	</ul>
+	</p>
+
 	<hr />
 
 	<p>
