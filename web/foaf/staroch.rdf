@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+		xmlns:foaf="http://xmlns.com/foaf/0.1/"
+		xmlns:dc="http://purl.org/dc/elements/1.1/"
+		xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+	<foaf:Person xml:lang="en" rdf:about="http://paul.staroch.name/foaf/staroch.rdf#paul">
+		<foaf:name>Paul Staroch</foaf:name>
+		<foaf:mbox rdf:resource="mailto:paul@staroch.name" />
+		<foaf:homepage rdf:resource="http://paul.staroch.name" />
+		<foaf:nick>Paulchen</foaf:nick>
+	</foaf:Person>
+</rdf:RDF>
+

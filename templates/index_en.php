@@ -11,7 +11,7 @@
 	</ul>
 
 	<p>
-	Currently seeking for a job. Previous work experience:
+	Currently working for <a href="http://www.softcom.at/">SOFTCOM CONSULTING</a>. Previous work experience:
 	</p>
 	<ul>
 		<li><a href="http://www.mediaxp.de/en/">MediaXP GmbH</a> (IT staff),</li>
@@ -42,11 +42,12 @@
 		<li><a href="/thesis/thesis.pdf">Master thesis</a></li>
 		<li><a href="/thesis/poster.pdf">Poster</a></li>
 		<li><a href="/thesis/presentation.pdf">Presentation slides</a></li>
+		<li><a href="/thesis/SmartHomeWeather.owl">The <i>SmartHomeWeather</i> ontology from the thesis</a> (also available at <a href="http://lov.okfn.org/dataset/lov/details/vocabulary_shw.html">LOV</a>)</li>
 	</ul>
 
 	<hr />
 
 	<p>
-	This page is written using <a href="http://validator.w3.org/check?uri=https%3A%2F%2Fstaroch.rueckgr.at%2Fen%2F">valid HTML5</a> code.
+	This page is written using <a href="http://validator.w3.org/check?uri=https%3A%2F%2Fpaul.staroch.name%2Fen%2F">valid HTML5</a> code.
 	</p>
 </div>

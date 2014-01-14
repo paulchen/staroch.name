@@ -11,7 +11,7 @@
 	</ul>
 
 	<p>
-	Derzeit auf Jobsuche. Bisherige Berufserfahrung:
+	Derzeit beschäftigt bei <a href="http://www.softcom.at/">SOFTCOM CONSULTING</a>. Vorhergehende Berufserfahrung:
 	</p>
 	<ul>
 		<li><a href="http://www.mediaxp.de/de/">MediaXP GmbH</a> (IT-Mitarbeiter),</li>
@@ -42,11 +42,12 @@
 		<li><a href="/thesis/thesis.pdf">Diplomarbeit</a></li>
 		<li><a href="/thesis/poster.pdf">Poster</a></li>
 		<li><a href="/thesis/presentation.pdf">Vortragsfolien</a></li>
+		<li><a href="/thesis/SmartHomeWeather.owl">Die <i>SmartHomeWeather</i>-Ontologie aus der Diplomarbeit</a> (auch bei <a href="http://lov.okfn.org/dataset/lov/details/vocabulary_shw.html">LOV</a> verfügbar)</li>
 	</ul>
 
 	<hr />
 
 	<p>
-	Diese Seite ist in <a href="http://validator.w3.org/check?uri=https%3A%2F%2Fstaroch.rueckgr.at%2Fde%2F">gültigem HTML5</a> geschrieben.
+	Diese Seite ist in <a href="http://validator.w3.org/check?uri=https%3A%2F%2Fpaul.staroch.name%2Fde%2F">gültigem HTML5</a> geschrieben.
 	</p>
 </div>
