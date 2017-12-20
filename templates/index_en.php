@@ -10,10 +10,10 @@
 		<li><a href="http://www.informatik.tuwien.ac.at/lehre/studien/master/software-engineering-and-internet-computing">Software Engineering &amp; Internet Computing</a> (Dipl.-Ing., equivalent to MSc).</li>
 	</ul>
 
-	<p>
-	Currently working for <a href="http://www.softcom.at/">SOFTCOM CONSULTING</a>. Previous work experience:
+	Currently working for <a href="http://www.pensionsversicherung.at/">Pensionsversicherungsanstalt</a> as a Java software developer. Previous work experience:
 	</p>
 	<ul>
+		<li><a href="http://www.softcom.at/">SOFTCOM CONSULTING</a> (Java software developer)</li>
 		<li><a href="http://www.mediaxp.de/en/">MediaXP GmbH</a> (IT staff),</li>
 		<li><a href="http://www.tuwien.ac.at/en/tuwien_home">Vienna University of Technology</a> (Tutor),</li>
 		<li><a href="http://www.fortuna-swa.at/home/haeuser/appartementhaus">Appartementhaus Fortuna</a> (Civilian service).</li>
