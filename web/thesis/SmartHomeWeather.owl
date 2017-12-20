@@ -56,11 +56,14 @@
 	<dc:title>SmartHomeWeather</dc:title>
 	<dc:description>A ontology defining weather-related concepts and properties being relevant to smart home systems that provide predictive control.</dc:description>
 	<dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-08-29</dc:issued>
-	<dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-01-14</dc:modified>
+	<dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-03-23</dc:modified>
 	<owl:versionInfo rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1.0</owl:versionInfo>
 	<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
 	<dc:contributor>
 		<foaf:Person rdf:about="http://paul.staroch.name/foaf/staroch.rdf#paul" />
+	</dc:contributor>
+	<dc:contributor>
+		Mario Kofler
 	</dc:contributor>
 	<dc:publisher>
 		<foaf:Person rdf:about="http://paul.staroch.name/foaf/staroch.rdf#paul" />
