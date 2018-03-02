@@ -36,7 +36,7 @@ switch($_REQUEST['request']) {
 		break;
 
 	default:
-		http_send_status(404);
+		http_response_code(404);
 		$curl = curl_init();
 		curl_setopt($curl, CURLOPT_URL, 'https://' . $_SERVER['SERVER_NAME'] . '/XXX');
 		curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
