@@ -11,11 +11,12 @@
 	</ul>
 
 	<p>
-	Derzeit beschäftigt bei der <a href="http://www.pensionsversicherung.at/">Pensionsversicherungsanstalt</a> als Java-Softwareentwickler. Vorhergehende Berufserfahrung:
+	Derzeit beschäftigt bei <a href="http://www.ucs.at/">UCS – unique computing solutions gmbh</a> als Java-Softwareentwickler. Vorhergehende Berufserfahrung:
 	</p>
 	<ul>
+		<li><a href="http://www.pensionsversicherung.at/">Pensionsversicherungsanstalt</a></li>
 		<li><a href="http://www.softcom.at/">SOFTCOM CONSULTING</a> (Java-Softwareentwickler)</li>
-		<li><a href="http://www.mediaxp.de/de/">MediaXP GmbH</a> (IT-Mitarbeiter),</li>
+		<li>MediaXP GmbH (IT-Mitarbeiter),</li>
 		<li><a href="http://www.tuwien.ac.at/de/tuwien_home">Technische Universität Wien</a> (Tutor),</li>
 		<li><a href="http://www.fortuna-swa.at/home/haeuser/appartementhaus">Appartementhaus Fortuna</a> (Zivildienst).</li>
 	</ul>
