@@ -41,6 +41,7 @@
 		<li><a href="https://www.facebook.com/paul.staroch">Facebook</a></li>
 		<li><a href="http://at.linkedin.com/in/paulstaroch/">LinkedIn</a></li>
 		<li><a href="https://www.xing.com/profiles/Paul_Staroch">XING</a></li>
+		<li><a href="https://github.com/paulchen">GitHub</a></li>
 	</ul>
 	</p>
 
