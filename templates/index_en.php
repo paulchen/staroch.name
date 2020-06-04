@@ -27,7 +27,7 @@
 	</p>
 
 	<p>
-	Operator of a server named <b>rueckgr.at</b> running <a href="https://rueckgr.at/">various services</a> including a <a href="https://tor.rueckgr.at">Tor relay</a> and a <a href="https://jabber.rueckgr.at/">public Jabber server</a>.
+	Operator of a server named <b>rueckgr.at</b> running <a href="https://rueckgr.at/">various services</a>.
 	</p>
 
 	<p>

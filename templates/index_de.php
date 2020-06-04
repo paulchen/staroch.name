@@ -28,7 +28,7 @@
 	</p>
 
 	<p>
-	Betreiber eines <b>rueckgr.at</b> genannten Servers mit einer <a href="https://rueckgr.at/">Reihe von Diensten</a>, einschließlich eines <a href="https://tor.rueckgr.at">Tor-Relays</a> und einem <a href="https://jabber.rueckgr.at/de/">öffentlichen Jabber-Server</a>.
+	Betreiber eines <b>rueckgr.at</b> genannten Servers mit einer <a href="https://rueckgr.at/">Reihe von Diensten</a>.
 	</p>
 
 	<p>
