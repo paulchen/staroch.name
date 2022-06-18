@@ -4,6 +4,7 @@ if(!preg_match('/^[a-z]+/', $lang)) {
 }
 
 ?><!DOCTYPE html>
+<html lang="<?php echo $lang; ?>">
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 	<meta name="viewport" content="initial-scale=.4, user-scalable=yes" />

@@ -10,6 +10,7 @@
 		<li><a href="http://www.informatik.tuwien.ac.at/lehre/studien/master/software-engineering-and-internet-computing">Software Engineering &amp; Internet Computing</a> (Dipl.-Ing., equivalent to MSc).</li>
 	</ul>
 
+	<p>
 	Currently working for <a href="http://www.ucs.at/">UCS – unique computing solutions gmbh</a> as a Java software developer. Previous work experience:
 	</p>
 	<ul>
@@ -23,7 +24,7 @@
 	<p>
 	Member of the organizational team of <a href="http://huntu.at/">hunTU</a>, the &quot;scavenger hunt that is a bit different&quot;.
 	<br />
-	Moderator at <a href="http://www.informatik-forum.at/">Informatik-Forum.at</a>.
+	Former moderator at <a href="http://www.informatik-forum.at/">Informatik-Forum.at</a>.
 	</p>
 
 	<p>
@@ -36,13 +37,13 @@
 
 	<p>
 	Social media:
+	</p>
 	<ul>
 		<li><a href="https://www.facebook.com/paul.staroch">Facebook</a></li>
 		<li><a href="http://at.linkedin.com/in/paulstaroch/">LinkedIn</a></li>
 		<li><a href="https://www.xing.com/profiles/Paul_Staroch">XING</a></li>
 		<li><a href="https://github.com/paulchen">GitHub</a></li>
 	</ul>
-	</p>
 
 	<hr />
 

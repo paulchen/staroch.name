@@ -24,7 +24,7 @@
 	<p>
 	Mitglied im Organisationsteam von <a href="http://huntu.at/">hunTU</a>, der &quot;etwas anderen Schnitzeljagd&quot;.
 	<br />
-	Moderator auf <a href="http://www.informatik-forum.at/">Informatik-Forum.at</a>.
+	Vormals Moderator auf <a href="http://www.informatik-forum.at/">Informatik-Forum.at</a>.
 	</p>
 
 	<p>
@@ -37,13 +37,13 @@
 
 	<p>
 	Social Media:
+	</p>
 	<ul>
 		<li><a href="https://www.facebook.com/paul.staroch">Facebook</a></li>
 		<li><a href="http://at.linkedin.com/in/paulstaroch/">LinkedIn</a></li>
 		<li><a href="https://www.xing.com/profiles/Paul_Staroch">XING</a></li>
 		<li><a href="https://github.com/paulchen">GitHub</a></li>
 	</ul>
-	</p>
 
 	<hr />
 
