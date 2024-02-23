@@ -25,6 +25,11 @@ foreach($languages as $language) {
 	$language_links[$language] = preg_replace("+/$lang/+", "/$language/", $_SERVER['REQUEST_URI'], 1);
 }
 
+if(!isset($_REQUEST['request'])) {
+	header('Location: /');
+	die();
+}
+
 switch($_REQUEST['request']) {
 	case '':
 		if(!file_exists("$templates_dir/index_$lang.php")) {
