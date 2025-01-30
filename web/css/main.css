@@ -31,7 +31,7 @@ a {
 img {
 	border: none;
 }
-a:hover {
+a:hover, a:hover:visited {
 	color: red;
 }
 a:visited {
